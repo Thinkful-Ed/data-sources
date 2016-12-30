@@ -1,5 +1,6 @@
 # Data sources
 Suggested data sources for data science students at Thinkful.
+
 | Title                                                                                                                             | Description                                                                                                                                                                              | Prospective Uses                                               |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|
 | [American Community Survey 5-year Data (2009-2015)](http://www.census.gov/data/developers/data-sets/acs-5year.html)                                     | Survey data from the U.S. Census Bureau available via API                                                                                                                                | Exploratory Analysis, Data Visualizations, Predictive Modeling |
