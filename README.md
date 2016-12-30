@@ -13,3 +13,10 @@ Suggested data sources for data science students at Thinkful.
 | [AWS Public Data Sets](https://aws.amazon.com/public-datasets/)                                                                                         | Data sets on AWS infrastructure                                                                                                                                                          | Big Data                                                       |
 | [Data.GOV](https://www.data.gov/)                                                                                                                       | US government open data sets                                                                                                                                                             | Economics, Gov't                                               |
 | [Github Repo](https://github.com/caesar0301/awesome-public-datasets)                                                                                    | Awesome github repo with datasets sorted by subject                                                                                                                                      | All                                                            |
+
+Highly specalized data sets:
+
+| Title                                                | Description                                           | Prospective Uses                          |
+|----------------------------------------------------------------------------|-------------------------------------------------------|-------------------------------------------|
+| [Rijksmuseum API](https://www.rijksmuseum.nl/en/api)                       | A public facing API from the Rijksmuseum in Amsterdam | Exploratory Analysis, Data Visualizaitons |
+| [SFMOMA API](https://www.sfmoma.org/read/why-build-api-museum-collection/) | An API from the SF MOMA                               | Exploratory Analysis, Data Visualizaitons |
