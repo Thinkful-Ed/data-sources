@@ -1,4 +1,9 @@
-# Data sources
+# This file is deprecated, see https://github.com/Thinkful-Ed/data-201-resources/blob/master/data-sources.md for an up-to-date file.
+
+
+
+
+## Data sources
 Suggested data sources for data science students at Thinkful.
 
 | Title                                                                                                                             | Description                                                                                                                                                                              | Prospective Uses                                               |
